@@ -1,6 +1,9 @@
+# Coffee-Quality-Analysis
+![Coffee_Quality_Institute](https://github.com/user-attachments/assets/61c0d79d-75c5-4173-b0cd-b2652800f509)
+
 # About Project
 Design a dynamic dashboard for coffee enthusiast that showcases the global coffee gradeing standards and how different regions and proccesing methods affect gradeing standards.
-# Dashboard![Dashboard](https://github.com/user-attachments/assets/fd78b6cf-6cac-4c2a-9129-20958366bf44)
+# Dashboard:![Dashboard](https://github.com/user-attachments/assets/fd78b6cf-6cac-4c2a-9129-20958366bf44)
 
 
 # About Datset
