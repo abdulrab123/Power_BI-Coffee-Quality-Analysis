@@ -1,7 +1,8 @@
 # About Project
 Design a dynamic dashboard for coffee enthusiast that showcases the global coffee gradeing standards and how different regions and proccesing methods affect gradeing standards.
-# Dashboard
-https://github.com/abdulrab123/Coffee-Quality-Analysis/blob/227e0fa3dcd72d505e29b5cc2eb1e1dc84945919/Dashboard.png
+# Dashboard![Dashboard](https://github.com/user-attachments/assets/fd78b6cf-6cac-4c2a-9129-20958366bf44)
+
+
 # About Datset
 The dataset consist a small chunk of records of coffee samples graded across different National Coffee Association over the world. It consist 207 records and 31 fields which include likes of 'ID', 'Country of Origin', 'Lot Number', 'Altitude', 'Region', 'Number of Bags', 'Bag Weight', 'In-Country Partner', 'Harvest Year', 'Grading Date', 'Variety', 'Status', 'Processing Method', 'Aroma', 'Flavor', 'Aftertaste', 'Acidity', 'Body', 'Balance', 'Uniformity', 'Clean Cup', 'Sweetness', 'Overall', 'Defects', 'Total Cup Points', 'Moisture Percentage', 'Category One Defects', 'Quakers', 'Color', 'Category Two Defects', 'Expiration'.
 
